@@ -19,6 +19,7 @@ C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) 
 
 ## inspirations
 https://github.com/delkk0/BeewiPy
+http://domo-attitude.fr/tuto-lampe-de-chevet-yeelight-bluetooth-domoticz/
 
 https://github.com/jimmckeeth/BeeMiniCtrl.git
 
