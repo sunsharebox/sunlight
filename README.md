@@ -18,8 +18,9 @@ C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) 
 3 - portrer le code sous nodered
 
 ## inspirations
-https://github.com/delkk0/BeewiPy
-http://domo-attitude.fr/tuto-lampe-de-chevet-yeelight-bluetooth-domoticz/
+https://github.com/delkk0/BeewiPy <br>
+http://domo-attitude.fr/tuto-lampe-de-chevet-yeelight-bluetooth-domoticz/ <br>
+Elle ressemble aussi beaucoup aux ampoules AWOX https://www.awox.com/awox_product/smartlight-mesh-w9w/
 
 https://github.com/jimmckeeth/BeeMiniCtrl.git
 
