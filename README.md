@@ -16,9 +16,17 @@ C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) 
 2c - decoder le bluetooth qui est transmis à la lampe
 
 3 - portrer le code sous nodered
+exemple sur ampoule très proche ici : <br>
+https://developer.ibm.com/recipes/tutorials/interact-with-a-connected-awox-bulb-using-vocal-commands/
+
+tuto nodered pour debutants :
+http://silanus.fr/sin/?p=984
+nodered est proposé dans les applications du raspberry ou en ligne de commande : <br>
+```bash <(curl -sL https://raw.githubusercontent.com/node-red/linux-installers/master/deb/update-nodejs-and-nodered)```
+
 
 ## inspirations
-https://github.com/delkk0/BeewiPy <br>
+https://github.com/delkk0/BeewiPy et https://github.com/Leiaz/python-awox-mesh-light <br>
 http://domo-attitude.fr/tuto-lampe-de-chevet-yeelight-bluetooth-domoticz/ <br>
 Elle ressemble aussi beaucoup aux ampoules AWOX https://www.awox.com/awox_product/smartlight-mesh-w9w/
 
