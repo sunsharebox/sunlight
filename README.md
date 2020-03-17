@@ -32,6 +32,11 @@ Elle ressemble aussi beaucoup aux ampoules AWOX https://www.awox.com/awox_produc
 
 https://github.com/jimmckeeth/BeeMiniCtrl.git
 
+<img src="http://www.bee-wi.com/wp-content/uploads/2016/09/BLR11.png" />
+<img src=http://www.bee-wi.com/wp-content/uploads/2017/06/BLH04-U1E.png /> <br>
+<img src=https://i.pinimg.com/236x/c1/d5/04/c1d504a513c66ceb0d76fcadc991d631.jpg />
+<img src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/0bb82849055337.56084b140b852.jpg /><br>
+
 ## license
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
