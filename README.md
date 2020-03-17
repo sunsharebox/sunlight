@@ -30,7 +30,9 @@ https://github.com/delkk0/BeewiPy et https://github.com/Leiaz/python-awox-mesh-l
 http://domo-attitude.fr/tuto-lampe-de-chevet-yeelight-bluetooth-domoticz/ <br>
 Elle ressemble aussi beaucoup aux ampoules AWOX https://www.awox.com/awox_product/smartlight-mesh-w9w/
 
-https://github.com/jimmckeeth/BeeMiniCtrl.git
+https://github.com/jimmckeeth/BeeMiniCtrl.git <br><br>
+
+![test](https://github.com/favicon.ico | width=48)
 
 <img src="http://www.bee-wi.com/wp-content/uploads/2016/09/BLR11.png" style="width:100"/>
 <img src=http://www.bee-wi.com/wp-content/uploads/2017/06/BLH04-U1E.png style="width:100"/> <br>
