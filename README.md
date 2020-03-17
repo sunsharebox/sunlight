@@ -32,12 +32,10 @@ Elle ressemble aussi beaucoup aux ampoules AWOX https://www.awox.com/awox_produc
 
 https://github.com/jimmckeeth/BeeMiniCtrl.git <br><br>
 
-![test](https://github.com/favicon.ico | width=48)
-
-<img src="http://www.bee-wi.com/wp-content/uploads/2016/09/BLR11.png" style="width:100"/>
-<img src=http://www.bee-wi.com/wp-content/uploads/2017/06/BLH04-U1E.png style="width:100"/> <br>
-<img src=https://i.pinimg.com/236x/c1/d5/04/c1d504a513c66ceb0d76fcadc991d631.jpg style="width:80"/>
-<img src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/0bb82849055337.56084b140b852.jpg style="width:150"/><br>
+<img src="http://www.bee-wi.com/wp-content/uploads/2016/09/BLR11.png" width="100"/>
+<img src=http://www.bee-wi.com/wp-content/uploads/2017/06/BLH04-U1E.png width="100"/> <br>
+<img src=https://i.pinimg.com/236x/c1/d5/04/c1d504a513c66ceb0d76fcadc991d631.jpg width="80"/>
+<img src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/0bb82849055337.56084b140b852.jpg width="150" /><br>
 
 ## license
 
