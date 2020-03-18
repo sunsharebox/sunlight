@@ -9,17 +9,22 @@ L'ampoule vient de conforama, de marque beewii (devenu OTIO)
 C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) avec l'application smartpad
 
 ## étapes du projet
-1- tester la lampe avec un smartphone
+
+### 1- tester la lampe avec un smartphone
 
 ### 2- rechercher des tutos pour piloter des ampoules BLE avec raspberry
+
 2b - decoder l'appli beewii smartpad
+
 2c - decoder le bluetooth qui est transmis à la lampe
+
 2d - tutos divers
+
 https://gladysassistant.com/fr/article/controler-des-ampoules-connectees <br>
 https://raspberry-pi.developpez.com/cours-tutoriels/projets-ido/cheerlights/
 
 
-3 - portrer le code sous nodered
+### 3 - portrer le code sous nodered
 exemple sur ampoule très proche ici : <br>
 https://developer.ibm.com/recipes/tutorials/interact-with-a-connected-awox-bulb-using-vocal-commands/
 
