@@ -15,7 +15,7 @@ C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) 
 2b - decoder l'appli beewii smartpad
 2c - decoder le bluetooth qui est transmis à la lampe
 2d - tutos divers
-https://gladysassistant.com/fr/article/controler-des-ampoules-connectees
+https://gladysassistant.com/fr/article/controler-des-ampoules-connectees <br>
 https://raspberry-pi.developpez.com/cours-tutoriels/projets-ido/cheerlights/
 
 
