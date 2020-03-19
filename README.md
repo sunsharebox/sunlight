@@ -20,8 +20,8 @@ C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) 
 
 2d - tutos divers
 
-https://gladysassistant.com/fr/article/controler-des-ampoules-connectees <br>
-https://raspberry-pi.developpez.com/cours-tutoriels/projets-ido/cheerlights/
+Pour des ampoules wifi : https://gladysassistant.com/fr/article/controler-des-ampoules-connectees <br>
+Pour connexion filaire au GPIO : https://raspberry-pi.developpez.com/cours-tutoriels/projets-ido/cheerlights/
 
 
 ### 3 - portrer le code sous nodered
@@ -57,4 +57,18 @@ Récupérer l'adresse MAC de l'ampoule sur le raspberry ?
 Appli en python BeewiPy a transferer sous nodered ?
 
 
+## Tentative en python
 
+Sur la base d'un tuto en anglais qui controle ces lampe avec python.
+
+<code>
+sudo apt-get install python3-pip libglib2.0-dev
+sudo pip install bluepy
+sudo -E pip install pexpect 
+</code>
+
+recopier le code sur cette page et suivre ce post : https://www.raspberrypi.org/forums/viewtopic.php?t=117729#p1446633
+
+recopier le code MAC visible sur l'appli smartphone en déconnectant la lampe
+Lancer la commande :
+<code>sudo python beewibulb.py 92:A6:76:XX:XX:XX status</code>
