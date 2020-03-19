@@ -3,6 +3,7 @@
 ## objectifs
 On souhaite montrer avec la boxenergie la consommation d'une maison avec une lampe qui change de couleur.
 On veut donc piloter une ampoule de couleur avec un raspberry pi et nodered.
+Article sur la boxenergie : http://sunshare.fr/boxenergie
 
 ## matériel
 L'ampoule vient de conforama, de marque beewii (devenu OTIO)
