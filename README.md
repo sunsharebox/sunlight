@@ -61,15 +61,11 @@ Appli en python BeewiPy a transferer sous nodered ?
 
 Sur la base d'un tuto en anglais qui controle ces lampe avec python.
 
-<code>
-
-sudo apt-get install python3-pip libglib2.0-dev
+<code> sudo apt-get install python3-pip libglib2.0-dev
 
 sudo pip install bluepy
 
-sudo <b>-H</b> pip install pexpect
-
-</code>
+sudo <b>-H</b> pip install pexpect </code>
 
 recopier le code sur cette page et suivre ce post : https://www.raspberrypi.org/forums/viewtopic.php?t=117729#p1446633
 
