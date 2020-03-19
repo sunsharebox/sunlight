@@ -68,5 +68,5 @@ Sur la base d'un tuto en anglais qui controle ces lampe avec python.
 recopier le code sur cette page et suivre ce post : https://www.raspberrypi.org/forums/viewtopic.php?t=117729#p1446633
 
 recopier le code MAC visible sur l'appli smartphone en déconnectant la lampe
-Lancer la commande :
+Lancer la commande :<br>
 <code>sudo python beewibulb.py 92:A6:76:XX:XX:XX status</code>
