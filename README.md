@@ -38,11 +38,17 @@ nodered est proposé dans les applications du raspberry ou en ligne de commande 
 ## inspirations
 surtout en WIFI ..... :
 https://github.com/delkk0/BeewiPy et https://github.com/Leiaz/python-awox-mesh-light <br>
-http://domo-attitude.fr/tuto-lampe-de-chevet-yeelight-bluetooth-domoticz/ <br>
+
 Elle ressemble aussi beaucoup aux ampoules AWOX https://www.awox.com/awox_product/smartlight-mesh-w9w/
 https://flows.nodered.org/node/node-red-contrib-awox
 
-Mais en BLE :
+Et aussi une autre marque YEELIGHT :
+https://www.npmjs.com/package/yeelight2
+https://github.com/song940/node-yeelight
+
+Yeelight bluetooth exemple : http://domo-attitude.fr/tuto-lampe-de-chevet-yeelight-bluetooth-domoticz/ <br>
+
+Et en BLE :
 https://flows.nodered.org/node/node-red-contrib-xiaomi-ble
 
 https://github.com/jimmckeeth/BeeMiniCtrl.git <br><br>
