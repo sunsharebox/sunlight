@@ -12,12 +12,15 @@ C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) 
 ## étapes du projet
 
 ### 1- tester la lampe avec un smartphone
+fait. Apple beewi, on repère l'adresse MAC a la connexion.
+Il faut réinitialiser la lampe dans l'appli pour voir l'adresse MAC
 
 ### 2- rechercher des tutos pour piloter des ampoules BLE avec raspberry
 
-2b - decoder l'appli beewii smartpad
+2b - decoder l'appli beewii smartpad - non poursuivi - complexe
 
 2c - decoder le bluetooth qui est transmis à la lampe
+on a trouvé un tuto python (voir en bas du memo)
 
 2d - tutos divers
 
