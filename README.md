@@ -3,7 +3,8 @@
 ## objectifs
 On souhaite montrer avec la boxenergie la consommation d'une maison avec une lampe qui change de couleur.
 On veut donc piloter une ampoule de couleur avec un raspberry pi et nodered.
-Article sur la boxenergie : http://sunshare.fr/boxenergie
+
+<br> Découvrir le projet de boxenergie : http://sunshare.fr/boxenergie
 
 <img src=https://i.pinimg.com/236x/c1/d5/04/c1d504a513c66ceb0d76fcadc991d631.jpg width="160"/>  <img src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/0bb82849055337.56084b140b852.jpg width="300" /><br>
 
