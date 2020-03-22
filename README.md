@@ -6,11 +6,13 @@ On veut donc piloter une ampoule de couleur avec un raspberry pi et nodered.
 Article sur la boxenergie : http://sunshare.fr/boxenergie
 
 <img src=https://i.pinimg.com/236x/c1/d5/04/c1d504a513c66ceb0d76fcadc991d631.jpg width="160"/>  <img src=https://mir-s3-cdn-cf.behance.net/project_modules/disp/0bb82849055337.56084b140b852.jpg width="300" /><br>
-<img src="http://www.bee-wi.com/wp-content/uploads/2016/09/BLR11.png" width="250"/> <img src="http://www.bee-wi.com/wp-content/uploads/2017/06/BLH04-U1E.png" width="250"/> <img src="http://actu-smartphones.com/wp-content/uploads/2015/02/boite.jpg" width="180"/> <br>
 
 ## matériel
 L'ampoule vient de conforama, de marque beewii (devenu OTIO)
 C'est une ampoule qui se connecte a un smartphone en bluetooth low energy (BLE) avec l'application smartpad
+
+<img src="http://www.bee-wi.com/wp-content/uploads/2016/09/BLR11.png" width="250"/> <img src="http://www.bee-wi.com/wp-content/uploads/2017/06/BLH04-U1E.png" width="250"/> <img src="http://actu-smartphones.com/wp-content/uploads/2015/02/boite.jpg" width="180"/> <br>
+
 
 ## lampe à construire en fablab (découpe laser)
 Plans fournis design by hoel moysan ..... confinement COVID19 oblige
